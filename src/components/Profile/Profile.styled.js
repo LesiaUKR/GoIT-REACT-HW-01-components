@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const Wrapper = styled.div`
-  margin: 40px auto;
+  margin: auto;
   border-radius: 4px;
   border: 1px solid lightskyblue;
   width: 350px;
