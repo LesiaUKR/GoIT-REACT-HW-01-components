@@ -12,14 +12,12 @@ export const Title = styled.h2`
 export const StatisticSec = styled.section`
   margin: 60px auto;
   border-radius: 4px;
-  border: 1px solid midnightblue;
+ background-color: white;
   width: 500px;
 `;
 
 export const StatList = styled.ul`
   display: flex;
-
-  border-top: 1px solid midnightblue;
 `;
 
 export const StatsItem = styled.li`

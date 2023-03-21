@@ -5,6 +5,7 @@ export const Wrapper = styled.div`
   border-radius: 4px;
   border: 1px solid lightskyblue;
   width: 350px;
+  background-color: white;
 `;
 
 export const Description = styled.div`
